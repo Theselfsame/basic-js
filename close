@@ -1,0 +1,487 @@
+[33mcommit 4c107e8e44204490e7386ebc67ac11409dc508bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Siarhei Matsiushkin <matiushkin.s@gmail.com>
+Date:   Tue Apr 26 21:04:39 2022 +0300
+
+    feat: add carbone-date code
+
+[33mcommit 35961c4664a5f9ed985ef60ff6b2afabe9e9afc6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sergey kornienko <madkorney@gmail.com>
+Date:   Sat Mar 26 12:18:38 2022 +0000
+
+    docs: change wording in transform-array task description in README.md README_RU.md (#104)
+
+[33mcommit c7b6e4ca24545c5e98dd7883637123d56d3f4d9f[m
+Author: Maksim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Mon Feb 28 19:38:43 2022 +0100
+
+    docs: change Node version & minor changes (#103)
+
+[33mcommit 7ac7a0461167444c10e857328ba620eb04606a65[m
+Author: Vadzim Antonau <vanet@tut.by>
+Date:   Mon Feb 28 15:13:08 2022 +0300
+
+    docs: few fixes in "(ST) Minesweeper" and "(ST) Sum digits" descriptions (#102)
+    
+    * fix: delete duplicate 'For example:'
+    
+    * fix: add linebreak in "(ST) Sum digits"
+
+[33mcommit 89366498eb91a70153c650fbb37e0f95f88f89c9[m
+Merge: bde9582 c3e52d2
+Author: Maksim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Tue Jan 18 10:19:31 2022 +0100
+
+    Merge pull request #101 from AlreadyBored/refactor/tasks-names-readable
+    
+    refactor: make tasks names more readable
+
+[33mcommit c3e52d2d376e24f9d65d73a34d24f2576654e838[m[33m ([m[1;31morigin/refactor/tasks-names-readable[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Tue Jan 18 10:07:06 2022 +0100
+
+    docs: remove st- prefixes from filenames
+
+[33mcommit 25d36a251636b8c29ebcf872e81bb30b2b516dd6[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Tue Jan 18 09:57:58 2022 +0100
+
+    refactor: rename tasks & tests files
+
+[33mcommit 112ce0067cf2351e0f446a9729f6d8728d6c0bfd[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Tue Jan 18 09:48:49 2022 +0100
+
+    docs: update Readme
+
+[33mcommit bde95821b1adfb4f3e73b21378abc859bb29eb82[m
+Merge: cf13e7d 7f3f83b
+Author: Maksim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Tue Jan 18 09:30:41 2022 +0100
+
+    Merge pull request #100 from AlreadyBored/refactor/migrate-commonjs
+    
+    refactor: migrate commonjs
+
+[33mcommit 7f3f83b87a5a575363ba77e2a9a34b5fdff65b00[m[33m ([m[1;31morigin/refactor/migrate-commonjs[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Mon Jan 17 23:15:19 2022 +0100
+
+    refactor: remove esm declaration from package.json
+
+[33mcommit 7afd4d229123a645a74bbb7a849b7aadbd66f4ee[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Mon Jan 17 23:08:05 2022 +0100
+
+    fix: fix typo in encode-line
+
+[33mcommit ed2ff5a127a9ce670149b84a3c703fbebc0a2419[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Mon Jan 17 23:06:23 2022 +0100
+
+    refactor: migrate mac address
+
+[33mcommit 395544d8fd9d819f6c34ac2b8ee3f7a09f040efc[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Mon Jan 17 23:05:56 2022 +0100
+
+    refactor: migrate tests
+
+[33mcommit e82cd1044ffcf5f1ed01579cb149768b68ea86c7[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Mon Jan 17 21:59:42 2022 +0100
+
+    refactore: migrate check-errors
+
+[33mcommit 0e0313ab701fbb6220b74b319a7dbc3a9f7d4492[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Mon Jan 17 21:58:13 2022 +0100
+
+    refactor: migrate src
+
+[33mcommit e9eac56ba78800a962af6666dc862fc483e1838b[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Mon Jan 17 21:24:10 2022 +0100
+
+    refactor: migrate extensions
+
+[33mcommit cf13e7d1bd6a27b505639e8350c20b2f7b24dccf[m
+Merge: 4cfd1df 66c1f42
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Sat Oct 9 22:56:08 2021 +0300
+
+    Merge pull request #90 from LiquidVacuum/patch-1
+    
+    fix: improve st-delete-digit test
+
+[33mcommit 4cfd1dfb0b95b9ae6511cce27814c1e4629a4d83[m
+Merge: f547309 2de20f8
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Wed Sep 8 21:28:52 2021 +0300
+
+    Merge pull request #93 from AlreadyBored/fix/node-version
+    
+    Replace Node.js v14 with v12
+
+[33mcommit 2de20f8605636ca7d41c00499cc91af4075d48d5[m[33m ([m[1;31morigin/fix/node-version[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Wed Sep 8 21:28:06 2021 +0300
+
+    feat: replace v14 with v12
+
+[33mcommit 66c1f4262d1b3cd72034381a1989cfa7f2f6ac2f[m
+Author: LiquidVacuum <76704127+LiquidVacuum@users.noreply.github.com>
+Date:   Mon Sep 6 02:35:55 2021 +0300
+
+    fix: improve st-delete-digit test
+    
+    One more test case to ensure that solution doesn't simply remove the smallest digit.
+
+[33mcommit f5473092a5293806db4aff1f00fd401c98f1bf6e[m
+Merge: f109533 8255b9a
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Sat Sep 4 15:36:27 2021 +0300
+
+    Merge pull request #89 from AlreadyBored/refactor/remove-ds
+    
+    Remove DS tasks
+
+[33mcommit 8255b9aa8b4e55d04aba568a8ee9e999f62760d6[m[33m ([m[1;31morigin/refactor/remove-ds[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Sep 4 15:35:32 2021 +0300
+
+    feat: improve what-season test
+
+[33mcommit 514da7fcca5dc9d5347f63ef467b3b583eb397d1[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Sep 4 15:07:09 2021 +0300
+
+    docs: remove tasks descriptions
+
+[33mcommit 933b41c264aad140b8de432a4e072c476d85cb69[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Sep 4 15:04:07 2021 +0300
+
+    feat: remove tech files
+
+[33mcommit f109533bb03c23576227d1bfe8b6d793fd0da93a[m
+Merge: ef2c577 fce4ef3
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Thu Sep 2 21:16:27 2021 +0300
+
+    Merge pull request #88 from AlreadyBored/feat/integrate-new-tasks
+    
+    Integrate new tasks
+
+[33mcommit fce4ef359b04290e15da68040fddb9b8dc38e7dc[m[33m ([m[1;31morigin/feat/integrate-new-tasks[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Tue Aug 31 21:49:10 2021 +0300
+
+    feat: add st-queue task
+
+[33mcommit 26d93106d097bd2871ad814c16e020937427c4d1[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sun Aug 29 16:18:36 2021 +0300
+
+    docs: make minor changes in descriptions
+
+[33mcommit da0581900d5cd107671bfc5fb5756a27fa21c311[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sun Aug 29 15:40:35 2021 +0300
+
+    fix: fix eng binary-search-tree description
+
+[33mcommit 0f5aa75cd886cd259f56b0d89626a618ba85f70e[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sun Aug 29 15:40:17 2021 +0300
+
+    feat: add russian description of binary-search-tree
+
+[33mcommit b36b622730049ad3938dffb8e6b93e11e3a9e3ac[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sun Aug 29 15:25:57 2021 +0300
+
+    feat: add binary-search-tree task description
+
+[33mcommit f38c44a576cd3b6ebf6b0e0a4e992e7ff11028b4[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sun Aug 29 14:37:28 2021 +0300
+
+    feat: add task skeleton & Node extension
+
+[33mcommit 3303104b6b38a2701febc6910450efc8f023b780[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sun Aug 29 14:30:07 2021 +0300
+
+    feat: add tests for binary-search-tree task
+
+[33mcommit 92a1f1c62de3a81b9085220f319b2070684ca4e6[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 20:52:55 2021 +0300
+
+    feat: add skeleton of binary-search-tree
+
+[33mcommit c83f8a712557f4c0a4c09ad8b0ec7e718f775d0a[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 19:55:17 2021 +0300
+
+    feat: add example to Vigenere cipher jsdoc
+
+[33mcommit c1326f9d6d6654470c62ad520247fd53319c9476[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 19:53:27 2021 +0300
+
+    fix: fix description of DepthCalculator class
+
+[33mcommit e7de50753349ede024aa009ea238bd8b97542f44[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 19:36:26 2021 +0300
+
+    feat: add simple JSDoc annotations to old tasks
+
+[33mcommit 2c5339c94f5c850e2bd92721e59fa7bc3db38130[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 18:01:49 2021 +0300
+
+    feat: remove partially integrated tasks and its descriptions
+
+[33mcommit 37649dbfd403d82b008b99dd715f68006212fe09[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 15:08:39 2021 +0300
+
+    fix: fix test suite name
+
+[33mcommit c9f9e785fd07163d43bc76f25c25522c3db5d883[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 14:46:09 2021 +0300
+
+    fix: fix eng descriptions
+
+[33mcommit b061297a1d300ee5e01f1d68354bb3357b2155bb[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 14:44:13 2021 +0300
+
+    feat: add russian descriptions of tasks
+
+[33mcommit 0220f95e9ad186b4a782d6cf93a86f1a16c97dea[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 13:29:19 2021 +0300
+
+    feat: add descriptions of integrated tasks
+
+[33mcommit 333cf61d53f842929f4b83b95b4fa3c927aca991[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Aug 28 12:40:21 2021 +0300
+
+    fix: restore minesweeper func name
+
+[33mcommit febf4d9b4509a6e18814c2139a6cbf66974ee790[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Fri Aug 27 19:52:14 2021 +0300
+
+    fix: restore missing func name
+
+[33mcommit 6f0d97f04e90d827b194a51fcb9ece119fa75bbb[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Fri Aug 27 18:20:02 2021 +0300
+
+    feat: add pack of tests
+
+[33mcommit 75a479aaadeeba772d1dacb1bfa19bad5d5e5854[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Fri Aug 27 18:19:41 2021 +0300
+
+    fix: use direct path to ListNode module
+
+[33mcommit 6c08879c7f089b26e811b3fbe25d987359ac5a61[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Fri Aug 27 16:58:39 2021 +0300
+
+    feat: add tasks skeletons & its extensions
+
+[33mcommit ef2c57706aa10f9cd6f6d76fe033ccfa6b2659fe[m
+Merge: 5d96e41 022b29b
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Fri Aug 27 16:27:37 2021 +0300
+
+    Merge pull request #87 from AlreadyBored/feat/migrate-esm
+    
+    Migrate to ESM
+
+[33mcommit 022b29b599db86fd017d930fc773e24dda695a91[m[33m ([m[1;31morigin/feat/migrate-esm[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Fri Aug 27 16:14:56 2021 +0300
+
+    feat: migrate to ESM
+
+[33mcommit 5d96e4109d284f4b06d63905fba890a7ce04a6f9[m
+Merge: 9faf0f4 aa79547
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Fri Aug 27 14:21:27 2021 +0300
+
+    Merge pull request #86 from AlreadyBored/feat/update-tools
+    
+    Update tools
+
+[33mcommit aa795472cc5208c8a493a6d0bb498eaf6ab4c6f8[m[33m ([m[1;31morigin/feat/update-tools[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Fri Aug 27 14:17:59 2021 +0300
+
+    feat: update tools versions
+
+[33mcommit e4acfceafb93f18566d1c33d7e0d98391780b96d[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Fri Aug 27 14:15:48 2021 +0300
+
+    feat: update Node.js requirements 12 => 14
+
+[33mcommit 9faf0f41ad7099bc6a627eb862a9a6c4f84a7213[m
+Merge: 45f0a03 d8c5687
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Fri Aug 27 14:06:22 2021 +0300
+
+    Merge pull request #85 from AlreadyBored/feat/improve-errors-check
+    
+    Improve errors checks in some tasks
+
+[33mcommit d8c5687ab51fe5310b4ea3f2bb9f61941a89bbdf[m[33m ([m[1;31morigin/feat/improve-errors-check[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Fri Aug 27 14:02:02 2021 +0300
+
+    feat: improve errors checks in some tasks
+
+[33mcommit 45f0a03e6bc254d39a22e96bb93ba219e02b20a7[m
+Merge: 4b7e18e de4e7b9
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Thu Aug 26 21:04:04 2021 +0300
+
+    Merge pull request #84 from AlreadyBored/fix/recursive-depth-test
+    
+    Fix issue with recursive-depth test
+
+[33mcommit de4e7b99fcb7a50dfc99f3f4f5d42653a8afd925[m[33m ([m[1;31morigin/fix/recursive-depth-test[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Thu Aug 26 20:59:12 2021 +0300
+
+    fix: minor fix to recursive-depth task test
+
+[33mcommit 4b7e18e8f1cf5c120287a6eb08e5de544ffd5414[m
+Merge: 54ba7c8 60d0950
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Sun Aug 1 23:53:12 2021 +0300
+
+    Merge pull request #81 from AlreadyBored/dependabot/npm_and_yarn/lodash-4.17.21
+    
+    build(deps): bump lodash from 4.17.19 to 4.17.21
+
+[33mcommit 54ba7c805079f0b1762dff40819f8f7d199a07fe[m
+Merge: a88c81b da0acab
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Sun Aug 1 23:53:02 2021 +0300
+
+    Merge pull request #83 from AlreadyBored/dependabot/npm_and_yarn/glob-parent-5.1.2
+    
+    build(deps): bump glob-parent from 5.1.0 to 5.1.2
+
+[33mcommit da0acabeb53a6c06873b895199c4ff7a348d70e6[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Jun 11 02:32:55 2021 +0000
+
+    build(deps): bump glob-parent from 5.1.0 to 5.1.2
+    
+    Bumps [glob-parent](https://github.com/gulpjs/glob-parent) from 5.1.0 to 5.1.2.
+    - [Release notes](https://github.com/gulpjs/glob-parent/releases)
+    - [Changelog](https://github.com/gulpjs/glob-parent/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/gulpjs/glob-parent/compare/v5.1.0...v5.1.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: glob-parent
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 60d0950b737db519f638e3eeffeeee0222457cdc[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue May 11 03:22:18 2021 +0000
+
+    build(deps): bump lodash from 4.17.19 to 4.17.21
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.19 to 4.17.21.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.19...4.17.21)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit a88c81b6480fee4c46349ac9cb8a4c9a67d8aa5e[m
+Merge: d50b23b 3d02bcb
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Sun Feb 28 17:22:58 2021 +0300
+
+    Merge pull request #66 from maksumov/update-transform-array-requirements
+    
+    docs: clarify transform-array task description
+
+[33mcommit 3d02bcb92ba48a8ee0c94e7e0255b43851190770[m
+Author: Marat Maksumov <maksumov@users.noreply.github.com>
+Date:   Sun Feb 28 14:18:34 2021 +0300
+
+    docs: add an important clarification regarding the deleted items
+
+[33mcommit bbee78b0b57c0f4f816904fec03dc67c8bdeae1e[m
+Author: Marat Maksumov <maksumov@users.noreply.github.com>
+Date:   Sun Feb 28 12:56:22 2021 +0300
+
+    docs: detail the requirements to the Transform array subtask
+
+[33mcommit d50b23bb35d6c05a3660ac1f82878f5337f99efe[m
+Merge: 4a15218 b559741
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Sat Feb 27 18:14:08 2021 +0300
+
+    Merge pull request #65 from AlreadyBored/feat/improve-extended-repeater-tests
+    
+    feat: add test for conversion to string + test for no additions & fix…
+
+[33mcommit b55974161701e8addd1be892c8926b2030d33e69[m[33m ([m[1;31morigin/feat/improve-extended-repeater-tests[m[33m)[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Feb 27 18:07:37 2021 +0300
+
+    feat: add test for conversion to string + test for no additions & fix tests with explicitly conveyed undefined
+
+[33mcommit 4a1521892b31cc87b5787bbf6042e2d593b5a532[m
+Merge: 18e8be8 d5fe835
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Feb 27 12:25:31 2021 +0300
+
+    Merge branch 'master' of github.com:AlreadyBored/basic-js
+
+[33mcommit 18e8be8770e8fb14f1e3e9adbc25e49daa0065c9[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Feb 27 12:25:11 2021 +0300
+
+    fix: fix broken call in carbon-dating subtask
+
+[33mcommit 6fd72e0a450e250103106441dc3898e18abb169e[m
+Author: Maksim Shylau <shilaums@gmail.com>
+Date:   Sat Feb 27 12:24:35 2021 +0300
+
+    fix: change test sript & remove unnecessary file
+
+[33mcommit d5fe8350595f50df62428f7397b8adb05fbc7a08[m
+Merge: d5376c1 4f8ec89
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Thu Feb 25 22:21:03 2021 +0300
+
+    Merge pull request #61 from Jaskon/master
+    
+    fix: fix nested tests in carbon-dating
+
+[33mcommit d5376c1058be4e19dac16014283adc70742cc16a[m
+Merge: bdd0828 c550aa7
+Author: Maxim Shylau <34455330+AlreadyBored@users.noreply.github.com>
+Date:   Thu Feb 25 20:53:51 2021 +0300
+
+    Merge pull request #59 from kukinpower/patch-1
+    
+    fix: fix grammar mistake in README.md
